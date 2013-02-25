@@ -53,7 +53,7 @@
 <div class="contenedor-busqueda">
 <div class="contenedor-busquedas-btn">
 <ul class="busquedas">
-<li><a href="busquedaTiendas.php" data-transition="fade" rel="external">Por Tienda</a></li>
+<li><a href="busquedaTiendas.php" data-transition="fade" rel="external">SDKAHSDLKASDLASKDJLa</a></li>
 <li class="current"><a href="#" >Por Rubro</a></li>
 <li><a href="busquedaMarcas.php" data-transition="fade" rel="external">Por Marcas</a></li>
 <li><a href="busquedaProductos.php" data-transition="fade" rel="external">Por Productos</a></li>
